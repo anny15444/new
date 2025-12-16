@@ -176,14 +176,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Drawing 2025-12-14 01.39.57.excalidraw.md"
+                "file": "Daily Notes/2025-12-14.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Drawing 2025-12-14 01.39.57.excalidraw"
+              "title": "File properties for 2025-12-14"
             }
           },
           {
-            "id": "c191e55548e7e213",
+            "id": "788acd9dc2e3dbdf",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -212,7 +212,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf27b0a77e84ab90",
+  "active": "a21ed40b535de559",
   "lastOpenFiles": [
     "Daily Notes/2025-12-13.md",
     "Daily Notes/2025-12-14.md",
