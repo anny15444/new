@@ -1,1 +1,0 @@
-money befall us as a whole and as an individual
